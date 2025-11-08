@@ -1,0 +1,17 @@
+.page {
+	padding: 6rem 0 0;
+}
+
+.skills {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+.category {
+	border-bottom: 2px solid #fff4;
+	display: flex;
+	margin: 2rem auto;
+	padding: 0 .8rem;
+	width: fit-content;
+}

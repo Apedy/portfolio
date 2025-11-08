@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46665 135.46665"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="APEDY_WHITE.svg"
+   inkscape:export-filename="APEDY.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     borderlayer="true"
+     shape-rendering="auto"
+     showguides="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="210.01071"
+     inkscape:cy="324.56201"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Main">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4792"
+       dotted="false"
+       spacingy="2.1166664"
+       spacingx="2.1166664"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     id="Parts"
+     inkscape:label="PARTS"
+     inkscape:highlight-color="#ddffdd"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#f9f9f9;stroke-width:0.264583"
+       d="m 0,118.53332 h 33.866661 l 8.466667,-12.7 H 80.433323 L 63.499992,80.433323 H 25.399997 Z"
+       id="path4796"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="path" />
+  </g>
+  <g
+     id="Main"
+     inkscape:label="MAIN"
+     inkscape:highlight-color="#f29c97"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#f9f9f9;stroke-width:0.264583"
+       d="M 67.733325,16.933331 33.866662,67.733325 h 33.866663 l 33.866665,50.799995 h 33.86666 z"
+       id="path1832"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="path" />
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+.radio {
+	display: none;
+}
+
+.radio:checked+label .button {
+	color: #fff2;
+	cursor: auto;
+}

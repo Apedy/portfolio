@@ -1,0 +1,11 @@
+export default {
+	plugins: [
+		'stylelint-order'
+	],
+	extends: [
+		'stylelint-config-standard'
+	],
+	rules: {
+		'order/properties-alphabetical-order': true
+	}
+};

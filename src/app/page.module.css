@@ -1,0 +1,11 @@
+.page {
+	backdrop-filter: blur(20px);
+	background-color: #fff2;
+	border: 2px solid #fff4;
+	border-radius: 2rem;
+	height: calc(100vh - 8rem);
+	margin: 4rem 0 0 12rem;
+	overflow: scroll;
+	padding: 0 4vw;
+	width: calc(100% - 16rem);
+}

@@ -1,0 +1,11 @@
+.skill {
+	margin: 0 1rem 1rem;
+	padding: 1rem;
+	width: fit-content
+}
+
+.info {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 1rem;
+}

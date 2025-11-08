@@ -1,0 +1,13 @@
+.level {
+	position: relative;
+}
+
+.component {
+	inset: 0;
+	position: absolute;
+}
+
+.circle {
+	transform: rotate(-90deg);
+	transform-origin: 50% 50%;
+}

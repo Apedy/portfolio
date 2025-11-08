@@ -1,0 +1,28 @@
+.sidebar {
+	backdrop-filter: blur(20px);
+	background-color: #fff2;
+	border: 2px solid #fff4;
+	border-radius: 2rem;
+	display: flex;
+	flex-direction: column;
+	font-size: .8rem;
+	height: calc(100% - 8rem);
+	justify-content: space-between;
+	margin: 4rem;
+	overflow: scroll;
+	padding: 2rem 0;
+	position: fixed;
+	text-align: center;
+	touch-action: none;
+	width: 4rem;
+	z-index: 1;
+}
+
+.navigation {
+	margin: 2rem 0;
+}
+
+.item {
+	height: fit-content;
+	text-align: center;
+}

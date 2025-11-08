@@ -1,0 +1,10 @@
+.page {
+	padding: 6rem 0 0;
+}
+
+.projects {
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}

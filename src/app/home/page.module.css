@@ -1,0 +1,25 @@
+.page {
+	align-items: center;
+	display: flex;
+	height: 100%;
+	justify-content: center;
+	width: 100%;
+}
+
+.info {
+	margin: 2rem;
+	width: 30%;
+
+	h1 {
+		font-size: 2rem;
+	}
+}
+
+.about {
+	margin: 2rem 0;
+}
+
+.scroll {
+	bottom: 10rem;
+	position: absolute;
+}
