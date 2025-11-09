@@ -17,12 +17,3 @@
 	width: 4rem;
 	z-index: 1;
 }
-
-.navigation {
-	margin: 2rem 0;
-}
-
-.item {
-	height: fit-content;
-	text-align: center;
-}

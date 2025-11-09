@@ -6,6 +6,7 @@ import Logo from '@/components/atoms/logo';
 import {
 	Code,
 	Folder,
+	Github,
 	Home,
 	Mail,
 	UserPen
@@ -54,10 +55,17 @@ export default function Sidebar() {
 				</ul>
 			</nav>
 
-			<Button direction='column' href='mailto:apedy.tech@gmail.com'>
-				<Mail />
-				<p>Contact</p>
-			</Button>
+			<div>
+				<Button direction='column' href='mailto:apedy.tech@gmail.com'>
+					<Mail />
+					<p>Contact</p>
+				</Button>
+
+				<Button direction='column' href='https://github.com/Apedy/portfolio'>
+					<Github />
+					<p>Github</p>
+				</Button>
+			</div>
 		</div>
 	);
 }
