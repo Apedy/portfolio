@@ -4,8 +4,9 @@
 	border: 2px solid #fff4;
 	border-radius: 2rem;
 	height: calc(100vh - 8rem);
-	margin: 4rem 0 0 12rem;
+	inset: 4rem 12rem;
 	overflow: scroll;
 	padding: 0 4vw;
+	position: fixed;
 	width: calc(100% - 16rem);
 }
