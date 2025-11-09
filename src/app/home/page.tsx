@@ -19,10 +19,6 @@ export default function Home() {
 				<h1>
 					<Typing>Apedy Tech</Typing>
 				</h1>
-
-				<div className={styles.about}>
-					<p>フルスタックエンジニアを目指し、日々研鑽を積んでいます。</p>
-				</div>
 			</div>
 
 			<Button className={styles.scroll} href='#skills'><ArrowDown /></Button>
