@@ -9,7 +9,8 @@
 }
 
 .category {
-	border-bottom: 2px solid #fff4;
+	background-color: #fff2;
+	border-radius: 2rem;
 	display: flex;
 	margin: 2rem auto;
 	padding: 0 .8rem;
