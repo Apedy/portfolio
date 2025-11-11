@@ -1,4 +1,5 @@
 .sidebar {
+	align-items: center;
 	backdrop-filter: blur(20px);
 	background-color: #fff2;
 	border: 2px solid #fff4;
@@ -9,11 +10,9 @@
 	height: calc(100% - 8rem);
 	inset: 4rem;
 	justify-content: space-between;
-	overflow: scroll;
 	padding: 2rem 0;
 	position: fixed;
 	text-align: center;
-	touch-action: none;
 	width: 4rem;
 	z-index: 1;
 }
