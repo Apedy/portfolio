@@ -1,19 +1,41 @@
-import Button from '../atoms/button';
 import styles from './styles/header.module.css';
 
+import Button from '@/components/atoms/button';
 import Logo from '@/components/atoms/logo';
+
+import {
+	Code,
+	Folder,
+	Home
+} from 'lucide-react';
 
 export default function Header() {
 	return (
-		<header className={styles.header}>
-			<Logo size='2rem' />
-
+		<div className={styles.header}>
 			<nav className={styles.navigation}>
-				<Button href='#home'>Home</Button>
-				<Button href='#skills'>Skills</Button>
-				<Button href='#projects'>Projects</Button>
-				<Button href='#career'>Career</Button>
+				<ul>
+					<li>
+						<Button direction='column' href='#home'>
+							<Home />
+							<p>Home</p>
+						</Button>
+					</li>
+
+					<li>
+						<Button direction='column'href='#skills'>
+							<Code />
+							<p>Skills</p>
+						</Button>
+					</li>
+
+					<li>
+						<Button direction='column' href='#projects'>
+							<Folder />
+							<p>Projects</p>
+						</Button>
+					</li>
+				</ul>
 			</nav>
-		</header>
+		</div>
 	);
 }
