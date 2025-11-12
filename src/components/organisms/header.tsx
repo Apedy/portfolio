@@ -1,7 +1,6 @@
 import styles from './styles/header.module.css';
 
 import Button from '@/components/atoms/button';
-import Logo from '@/components/atoms/logo';
 
 import {
 	Code,
