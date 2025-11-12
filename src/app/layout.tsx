@@ -2,6 +2,8 @@ import './globals.css';
 
 import { Metadata, Viewport } from 'next';
 
+import { Desktop, Mobile } from '@/components/atoms/responsive';
+import Header from '@/components/organisms/header';
 import Sidebar from '@/components/organisms/sidebar';
 
 import {
@@ -33,7 +35,13 @@ export default function RootLayout({
 	return (
 		<html lang='en'>
 			<body className={ubuntu.className}>
-				<Sidebar />
+				<Desktop>
+					<Sidebar />
+				</Desktop>
+
+				<Mobile>
+					<Header />
+				</Mobile>
 
 				{children}
 			</body>
